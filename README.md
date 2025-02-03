@@ -1,2 +1,5 @@
 # Test_Repository
-This is my first repository on GitHub. 
+## Introduction to GitHub
+This is my repository on GitHub.<br>
+
+This is a new addition to the readme file.
